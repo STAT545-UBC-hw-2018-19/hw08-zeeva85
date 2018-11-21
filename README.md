@@ -1,6 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<img src="/Users/seevasantindran/Desktop/GitHub/stats545/hw08-zeeva85/gpmd/www/logo.png" align="right" height=140/>   
+<br>
+<img src="/Users/seevasantindran/Desktop/GitHub/stats545/hw08-zeeva85/gpmd/www/logo.png" align="right" height=140/> <br>
 
 <br/><br/><br/><br/><br/>
 
