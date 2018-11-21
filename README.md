@@ -12,7 +12,9 @@ https://zeeva85.shinyapps.io/gpmd/
 
 [here]: https://zeeva85.shinyapps.io/gpmd/    
 
-> The accompanying packages can be downloaded via instruction below.
+> The accompanying gapminder package can be downloaded via instruction below.
+
+------
 
 <img src="figures/logo1.png" align="right" height=140/>
 
