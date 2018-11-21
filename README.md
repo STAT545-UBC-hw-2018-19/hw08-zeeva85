@@ -13,6 +13,7 @@ https://zeeva85.shinyapps.io/gpmd/
 
 [here]: https://zeeva85.shinyapps.io/gpmd/    
 
+<img src="figures/logo1.png" align="right" height=140/>
 
 gapminderplus
 =============
