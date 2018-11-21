@@ -8,11 +8,10 @@
 <br/>
 
 Please visit [here][here] for an interactive shiny gapminderplus dataset set or copy the link below.
-The accompanying pacakages can be downloaded via instruction below.
+The accompanying packages can be downloaded via instruction below.
 
 ```
 https://zeeva85.shinyapps.io/gpmd/
-
 ```
 
 [here]: https://zeeva85.shinyapps.io/gpmd/    
