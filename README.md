@@ -2,8 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <br>
 <img src="figures/logo.png" height=140/> <br>
-
-<br/><br/><br/><br/>
+<br/><br/>
 
 <br/>
 <br/>
