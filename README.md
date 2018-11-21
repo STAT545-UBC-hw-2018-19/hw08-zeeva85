@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-Please visit [here][here] for the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser of choice. The accompanying packages can be downloaded via instruction below.
+Visit **[here][here]** for the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser of choice. The accompanying packages can be downloaded via instruction below.
 
 ```
 https://zeeva85.shinyapps.io/gpmd/
