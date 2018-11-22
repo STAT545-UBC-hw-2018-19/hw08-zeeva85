@@ -8,7 +8,7 @@ Visit [here][here] to interact with the shiny gapminderplus datasetset or altena
 
 > https://zeeva85.shinyapps.io/gpmd/
 
-The accompanying `R` dataset package can be downloaded via github. The instruction are enlisted below or kindly visit the [gapminderplus][gapminderplus] repo.   
+The accompanying `R` dataset package can be downloaded via github, kindly visit the [gapminderplus][gapminderplus] repo for more info.   
 
 <br/>
 
