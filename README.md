@@ -23,8 +23,6 @@ The source code for the shiny app can be found [here][shiny]
 
 ------
  <br/> 
-  <br/>
-   <br/>
 
 <img src="figures/logo1.png" align="right" height=140/>
 
