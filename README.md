@@ -23,8 +23,8 @@ The source code for the shiny app can be found [here][shiny]
 
 <img src="figures/logo1.png" align="right" height=140/>
 
-gapminderplus
-====
+# gapminderplus
+
 
 This is an R package that has extended the gapminder dataset.                                                                                                                                                             
 
