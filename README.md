@@ -26,7 +26,7 @@ The source code for the shiny app can be found [here][shiny]
 gapminderplus
 ====
 
-This is an R package that has extended the gapminder dataset. 
+This is an R package that has extended the gapminder dataset.                                                                                                                                                             
 
 Installation
 ------------
