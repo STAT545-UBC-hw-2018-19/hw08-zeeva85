@@ -28,7 +28,7 @@ The source code for the shiny app can be found [here][shiny]
 gapminderplus
 =============
 
-This is an R package that has extended the gapminder dataset. This package also has included a simple `subset_country()` function which returns the mini dataset that was required for as many countries possible.
+This is an R package that has extended the gapminder dataset. 
 
 Installation
 ------------
