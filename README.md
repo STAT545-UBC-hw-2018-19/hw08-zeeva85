@@ -12,7 +12,8 @@ The accompanying `R` dataset package can be downloaded via github, kindly visit 
 
 <br/>
 
-**Would you like to make your own shiny app??**     
+**Would you like to make your own shiny app??** <br/>
+
 The source code for the shiny app can be found [here][shiny]  
 
 [here]: https://zeeva85.shinyapps.io/gpmd/  
