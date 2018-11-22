@@ -4,11 +4,14 @@
 <br/>
 <br/>
 
-Visit [here][here] to interact with the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser. 
+Visit [here][here] to interact with the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser.  
 
-> https://zeeva85.shinyapps.io/gpmd/
 
-The accompanying `R` dataset package can be downloaded via github, kindly visit the [gapminderplus][gapminderplus] repo for more info.   
+>The shiny gapminderplus app is an interactive extention to the gapminderplus package. It features a dataset of 133 countries with information such as, Life expectancy, Population, GDP per capita, Mean age in school from tabulated from 1972 to 2007 in an interval of five years.
+>                                                                 
+https://zeeva85.shinyapps.io/gpmd/
+
+The accompanying `R` dataset package can be downloaded via github, kindly visit the [gapminderplus][gapminderplus] repo for more info. 
 
 <br/>
 
