@@ -35,6 +35,6 @@ Installation
 Install gapminderplus from github with:
 
 ``` r
-# install.packages("devtools")
+install.packages("devtools")
 devtools::install_github("zeeva85/gapminderplus")
 ```
