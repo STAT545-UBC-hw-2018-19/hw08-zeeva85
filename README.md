@@ -21,4 +21,4 @@ The source code for the shiny app can be found [here][shiny]
 [shiny]: https://github.com/STAT545-UBC-students/hw08-zeeva85/blob/master/gpmd/app.R  
 <br/>
 
-<img src="figures/Screen.png" height=100, width=900/> <br>
+<img src="figures/Screen.png" height=140, width=900/> <br>
