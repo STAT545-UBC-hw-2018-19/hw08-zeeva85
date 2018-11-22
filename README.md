@@ -4,15 +4,21 @@
 <br/>
 <br/>
 
-Visit **[here][here]** for the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser of choice. The accompanying packages can be downloaded via instruction below.
+Visit [here][here] to interact with the shiny gapminderplus datasetset or altenatively copy and paste the link below in your browser. 
 
-```
-https://zeeva85.shinyapps.io/gpmd/
-```
+> https://zeeva85.shinyapps.io/gpmd/
 
-[here]: https://zeeva85.shinyapps.io/gpmd/    
+The accompanying `R` dataset package can be downloaded via github. The instruction are enlisted below or kindly visit the [gapminderplus][gapminderplus] repo.   
 
-> The accompanying gapminder package can be downloaded via instruction below.
+<br/>
+
+**Would you like to make your own shiny app??**     
+The source code for the shiny app can be found [here][shiny]  
+
+[here]: https://zeeva85.shinyapps.io/gpmd/  
+[gapminderplus]: https://github.com/zeeva85/gapminderplus
+[shiny]: https://github.com/STAT545-UBC-students/hw08-zeeva85/blob/master/gpmd/app.R
+
 
 ------
 
